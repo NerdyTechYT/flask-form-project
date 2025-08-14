@@ -3,7 +3,15 @@
 ```markdown
 # Flask Form Project
 
-A sleek, easy-to-use Flask project that connects a web form with a Python backend, saving submissions locally. Ideal for learning full-stack basics or showcasing on GitHub.
+**🚀 Visit my website: [TechzyNerd.com](https://TechzyNerd.com)**
+
+**📺 Visit my YouTube channel: [TechzyNerd](https://www.youtube.com/@TechzyNerd)**
+
+This is a sleek, easy-to-use Flask project that connects a web form with a Python backend, saving submissions locally. Ideal for learning full-stack basics or showcasing on GitHub.
+
+If the code doesn’t work, please either:
+- Visit my website and let me know, or
+- Leave an issue in this GitHub repository.
 
 ## Features
 - Clean, modern HTML/CSS frontend
@@ -14,15 +22,7 @@ A sleek, easy-to-use Flask project that connects a web form with a Python backen
 ## Folder Structure
 ```
 
-flask\_form\_project/
-│
-├─ app.py
-├─ submissions.txt  (auto-created on first form submission)
-├─ README.md
-├─ templates/
-│   └─ index.html
-└─ static/
-└─ style.css
+flask\_form\_project/ │ ├─ app.py ├─ submissions.txt  (auto-created on first form submission) ├─ README.md ├─ templates/ │   └─ index.html └─ static/ └─ style.css
 
 ````
 
@@ -47,4 +47,6 @@ python app.py
 * HTML / CSS (frontend)
 * Python / Flask (backend)
 
-##
+## SUBSCRIBE TO TECHZYNERD
+
+## VISIT TECHZYNERD.COM
