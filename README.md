@@ -47,9 +47,4 @@ python app.py
 * HTML / CSS (frontend)
 * Python / Flask (backend)
 
-## License
-
-MIT License
-
-```
-```
+##
